@@ -1,0 +1,1 @@
+activity.find(i => i.user_id === userId).id
